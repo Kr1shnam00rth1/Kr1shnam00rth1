@@ -1,7 +1,6 @@
 
 ## 💫 About Me:
 
-```Student | CTF Player | Programmer```<br>
 + I am Currently Pursuing B.Tech in CSE with Specilization in Cybersecurity @ Amrita Vishwa Vidyapeetham.
 + I Love Coding and Problem Solving - [LeetCode Profile](https://leetcode.com/u/Kr1shnam00rthi/).
 + I am CTF Player @ 1nT_ha©K - [Team Profile](https://ctftime.org/team/311137).
