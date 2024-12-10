@@ -5,7 +5,6 @@
 + I am currently pursuing B.Tech in Computer Science with Specilization in Cybersecurity @ Amrita Vishwa Vidyapeetham.
 + I am CTF Player @ 1nT_ha©K - [Team Profile](https://ctftime.org/team/311137)
 + I love Coding and Problem Solving - [Leetcode Profile](https://leetcode.com/u/Kr1shnam00rth1/)
-+ My areas of interest includes Cybersecurity and Software Developemt.
 
 ##
 
